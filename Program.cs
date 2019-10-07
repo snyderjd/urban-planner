@@ -47,7 +47,15 @@ namespace Planner
                 FiveOneTwoEight, NSS, AllianceBernstein
             };
 
-            foreach(Building building in buildings)
+            City Nashville = new City("Nashville", 1850);
+
+            Nashville.AddBuilding(FiveOneTwoEight);
+            Nashville.AddBuilding(NSS);
+            Nashville.AddBuilding(AllianceBernstein);
+
+
+            // Iterate through a city's buildings and print their info to the console
+            foreach(Building building in Nashville.CityBuildings)
             {
                 Console.WriteLine(building.GetAddress());
                 Console.WriteLine("--------------------");
@@ -56,9 +64,7 @@ namespace Planner
                 Console.WriteLine($"Owned by {building.GetOwner()}");
                 Console.WriteLine($"{building.Volume} cubic meters of space.");
                 Console.WriteLine();
-
             }
-
 
         }
     }
