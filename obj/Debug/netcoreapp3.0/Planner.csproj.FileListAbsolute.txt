@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/bin/Debug/netcoreapp3.0/Planner
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/bin/Debug/netcoreapp3.0/Planner.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/bin/Debug/netcoreapp3.0/Planner.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/bin/Debug/netcoreapp3.0/Planner.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/bin/Debug/netcoreapp3.0/Planner.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/bin/Debug/netcoreapp3.0/Planner.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/obj/Debug/netcoreapp3.0/Planner.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/obj/Debug/netcoreapp3.0/Planner.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/obj/Debug/netcoreapp3.0/Planner.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/obj/Debug/netcoreapp3.0/Planner.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/Planner/obj/Debug/netcoreapp3.0/Planner.pdb
